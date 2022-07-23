@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b914d2c7.css",
+    "main.js": "/static/js/main.af2c5b1c.js",
+    "static/media/나눔손글씨 왼손잡이도 예뻐.ttf": "/static/media/나눔손글씨 왼손잡이도 예뻐.a5caec1e2d5944c50839.ttf",
+    "index.html": "/index.html",
+    "main.b914d2c7.css.map": "/static/css/main.b914d2c7.css.map",
+    "main.af2c5b1c.js.map": "/static/js/main.af2c5b1c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b914d2c7.css",
+    "static/js/main.af2c5b1c.js"
+  ]
+}
